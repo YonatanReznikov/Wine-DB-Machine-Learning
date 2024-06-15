@@ -4,5 +4,6 @@ The goal is to analyze and compare the performance of these algorithms in classi
 This project was made by 
 
 Yonatan - Mor - Yevgenia - Adi - Sahar.
+
 ![9834343](https://github.com/yonirz/Wine-DB-Machine-Learning/assets/131947490/39e7f0d8-27f2-4b86-993b-ca544c7db098)
 
