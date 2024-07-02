@@ -58,7 +58,7 @@ For any inquiries or issues, feel free to reach out:
 
 - **Author**: Yonatan Reznikov
 - **Email**: yonirz111@gmail.com
-- **GitHub**: [Yonatan Reznikov]([https://github.com/YonatanReznikov])
+- **GitHub**: [Yonatan Reznikov](https://github.com/YonatanReznikov)
 
 ![Wine](https://github.com/yonirz/Wine-DB-Machine-Learning/assets/131947490/39e7f0d8-27f2-4b86-993b-ca544c7db098)
 
